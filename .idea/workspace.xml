@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8e325b4-405e-4736-b806-51c0fbf77a21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mars-rover.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hAyskb8yj7ILXkEsFs9RnRu1wW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.nb.mars.Main" />
+      <module name="mars-rover" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Java Scratch.Scratch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Java Scratch.Scratch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8e325b4-405e-4736-b806-51c0fbf77a21" name="Default Changelist" comment="" />
+      <created>1599468399912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599468399912</updated>
+      <workItem from="1599468404034" duration="4771000" />
+      <workItem from="1599547391738" duration="17528000" />
+      <workItem from="1599575449311" duration="312000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix">
+      <created>1599575568036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599575568036</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix2">
+      <created>1599575749328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599575749328</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <MESSAGE value="fix2" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1475" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599573388988">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state x="-1475" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599573388988" />
+    <state x="-1124" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1599570541710">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state x="-1124" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599570541710" />
+    <state x="-1146" y="438" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599553341757">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state x="-1146" y="438" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599553341757" />
+    <state x="-1705" y="109" key="DiffContextDialog" timestamp="1599575206397">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state x="-1705" y="109" key="DiffContextDialog/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599575206397" />
+    <state x="-1149" y="298" key="FileChooserDialogImpl" timestamp="1599571092739">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state x="-1149" y="298" key="FileChooserDialogImpl/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599571092739" />
+    <state width="1815" height="312" key="GridCell.Tab.0.bottom" timestamp="1599575438401">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599575438401" />
+    <state width="1815" height="312" key="GridCell.Tab.0.center" timestamp="1599575438401">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="312" key="GridCell.Tab.0.center/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599575438401" />
+    <state width="1815" height="312" key="GridCell.Tab.0.left" timestamp="1599575438401">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="312" key="GridCell.Tab.0.left/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599575438401" />
+    <state width="1815" height="312" key="GridCell.Tab.0.right" timestamp="1599575438401">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="312" key="GridCell.Tab.0.right/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599575438401" />
+    <state x="-1082" y="460" key="VCS.ChangelistChooser" timestamp="1599575416062">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state x="-1082" y="460" key="VCS.ChangelistChooser/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599575416062" />
+    <state x="-1337" y="276" key="Vcs.Push.Dialog.v2" timestamp="1599575210008">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state x="-1337" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599575210008" />
+    <state x="-1766" y="96" width="1674" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599570591056">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state x="-1766" y="96" width="1674" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599570591056" />
+    <state x="-1222" y="277" width="585" height="534" key="find.popup" timestamp="1599570868916">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state x="-1222" y="277" width="585" height="534" key="find.popup/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599570868916" />
+    <state x="-1547" y="164" key="new project wizard" timestamp="1599485769112">
+      <screen x="-1858" y="4" width="1858" height="1080" />
+    </state>
+    <state x="-1547" y="164" key="new project wizard/0.0.1920.1040/-1858.4.1858.1080@-1858.4.1858.1080" timestamp="1599485769112" />
+  </component>
+</project>
